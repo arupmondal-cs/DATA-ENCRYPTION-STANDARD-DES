@@ -1,6 +1,6 @@
 ## Data Encryption Standard (DES) Encryption Scheme
 
-his [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) project implements the **[Data Encryption Standard (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)** Symmetric Encryption Scheme. 
+This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) project implements the **[Data Encryption Standard (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)** Symmetric Encryption Scheme. 
 
 
 ## File Description
