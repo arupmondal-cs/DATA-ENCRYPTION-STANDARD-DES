@@ -10,7 +10,7 @@ DES is the archetypal block cipher—an algorithm that takes a fixed-length stri
 
 The follwing figure shows the Block Diagram of DES algorith Encryption,
 
-![DESBD](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/Data-Encryption-Standard-DES-Algorithm.png))
+![DESBD](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/Data-Encryption-Standard-DES-Algorithm.png)
 
 
 ## File Description
