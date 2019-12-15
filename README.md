@@ -1,7 +1,5 @@
 ## Data Encryption Standard (DES) Encryption Scheme
 
-[![Follow us on twitter](https://img.shields.io/twitter/follow/awe_crypto_bot.svg?style=social&maxAge=0)](https://twitter.com/awe_crypto_bot)
-
 This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) project implements the **[Data Encryption Standard (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)** Symmetric Encryption Scheme. 
 
 The Data Encryption Standard (DES) is a **symmetric-key algorithm** for the encryption of electronic data. Although its short key length is of 56 bits, criticized from the beginning, makes it too insecure for most current applications, it was highly influential in the advancement of modern cryptography.
