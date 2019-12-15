@@ -8,6 +8,10 @@ Developed in the early 1970s at IBM and based on an earlier design by Horst Feis
 
 DES is the archetypal block cipher—an algorithm that takes a fixed-length string of plaintext bits and transforms it through a series of complicated operations into another ciphertext bitstring of the same length. In the case of DES, the block size is 64 bits. DES also uses a key to customize the transformation, so that decryption can supposedly only be performed by those who know the particular key used to encrypt. The key ostensibly consists of 64 bits; however, only 56 of these are actually used by the algorithm. Eight bits are used solely for checking parity, and are thereafter discarded. Hence the effective key length is 56 bits.
 
+The follwing figure shows the Block Diagram of DES algorith Encryption,
+
+![DESBD](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/Data-Encryption-Standard-DES-Algorithm.png))
+
 
 ## File Description
 
