@@ -3,14 +3,14 @@
 This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) project implements the **[Data Encryption Standard (DES)](https://en.wikipedia.org/wiki/Data_Encryption_Standard)** Symmetric Encryption Scheme. 
 
 
-## File Description
-
-
-
-
 The following figure shows the DES Algorithm Block Diagram
 
 ![DESBD](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/Data-Encryption-Standard-DES-Algorithm.png)
+
+
+## File Description
+
+
 
 ## Compile and Run
   
