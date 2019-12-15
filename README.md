@@ -8,6 +8,10 @@ This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) proj
 
 
 
+The following figure shows the DES Algorithm Block Diagram
+
+![DESBD](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/Data-Encryption-Standard-DES-Algorithm.png)
+
 ## Compile and Run
   
   Writing C# Programs on Linux:
