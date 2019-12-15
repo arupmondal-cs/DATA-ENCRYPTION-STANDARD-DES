@@ -26,11 +26,15 @@ The follwing figure shows the Block Diagram of DES algorith Encryption,
   
   To Compile:
   
-  > **mcs DES.cs**
+  ```
+  $ mcs DES.cs
+  ```
   
   The compiler will create **"DES.exe"**, which you can run using:
   
-  > **mono DES.exe**
+  ```
+  $ mono DES.exe
+  ```
   
   
   ## Execution with Pictures
