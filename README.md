@@ -32,3 +32,8 @@ This [**C#**](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) proj
   To Execution:
   
   ![Execution](https://github.com/arupmondal-cs/DES-Encryption/blob/master/Picture/run.png)
+
+## References
+
+  * https://en.wikipedia.org/wiki/Data_Encryption_Standard
+  * https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.des.create?view=netframework-4.8
